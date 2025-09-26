@@ -22,7 +22,7 @@ console.log(hello);
 >**執行這個hello容器** 
 
 # 執行結果
-![这是图片](/img/good.png)
+![執行結果](./img/good.png)
 
 ---
 # 心得
